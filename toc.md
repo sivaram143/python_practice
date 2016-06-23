@@ -1,0 +1,25 @@
+#### Topics : The order is going this way.
+
+- Installation
+- **Language Basics**
+  - Help
+  - Comments, Variables
+  - Strings
+  - Operators  (Math functions)
+  - Control Structures
+      - Conditional Statements
+      - Looping Statements
+  - Lists, Tuples, Dictionaries
+  - Funtions
+  - Modules
+  - File I/O
+  - Exception Handling
+- **Language Advanced**
+  - OOPS
+  - Regexpressions
+  - CGI 
+  - Database Access
+  - Networking
+  - Logging / Debugging
+  - GUI Programming
+  - Misc (TDD, Datascience ...)
