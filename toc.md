@@ -4,8 +4,8 @@
 - **Language Basics**
   - Help
   - Comments, Variables
-  - Strings
-  - Operators  (Math functions)
+  - Strings, Numbers(Math)
+  - Operators
   - Control Structures
       - Conditional Statements
       - Looping Statements
