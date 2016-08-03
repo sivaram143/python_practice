@@ -2,4 +2,4 @@
 * It is Reusable code that is used to perform a single, related action. 
 
 
-* Function Scope: 
+* Function Scope: Local and global
